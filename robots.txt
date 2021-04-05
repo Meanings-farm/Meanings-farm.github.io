@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://meanings.farm/sitemap.xml.gz
